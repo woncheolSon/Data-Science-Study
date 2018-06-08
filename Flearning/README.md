@@ -36,6 +36,6 @@
   - 동적 웹 페이지에서 데이터 추출하고 수집하기
     </br>
     
-- **실전 데이터 분석(2) - kaggle Data Analysis** 
+- **실전 데이터 분석(2) - Kaggle Data Analysis** 
   - US Baby Names_01
   - US Baby Names_02
