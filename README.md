@@ -8,6 +8,7 @@
   - 파이썬으로 공부하는 미적분과 최적화
   - 확률론 기초
 </br>
+
 ## 2 .Flearning
 ### [ Python으로 Big Data 분석하기 ]
 - Python 데이터 분석의 기초 라이브러리 - Numpy 사용하기
@@ -17,6 +18,7 @@
 - 실전 데이터 분석 (1) - Scapy, Selenium를 사용한 웹크롤링
 - 실전 데이터 분석 (2) - Kaggle Data : Us-Baby-Names 분석하기 
 </br>
+
 ## 3 .Youtude
 ### [ 선형대수 ]
 - Essence of linear algebra (3Blue1Brown)
