@@ -13,7 +13,8 @@
 ### [ Python으로 Big Data 분석하기 ]
 - Python 데이터 분석의 기초 라이브러리 - Numpy 사용하기
 - 쉽고 강력한 데이터 분석 라이브러리 - Pandas 사용하기
-- 데이터 처리하기 - Matplotlib를 사용한 시각화
+- 데이터 시각화 라이브러리 - Matplotlib 사용하기
+- 데이터 처리하기 - Scapy, Selenium 웹크롤링
 - 실전 데이터 분석 (1) - Scapy, Selenium를 사용한 웹크롤링
 - 실전 데이터 분석 (2) - Kaggle : Us-Baby-Names Data 분석하기 
 </br>
