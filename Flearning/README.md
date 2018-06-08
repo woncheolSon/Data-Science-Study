@@ -17,13 +17,9 @@
     </br>
 - **데이터 시각화 라이브러리 - Matplotlib 사용하기**
   - matplotlib의 플롯팅 함수 사용하기
-
   - matplotlib의 플롯 모양 변형하기
-
   - matplotlib를 사용한 데이터 시각화 맛보기: Game of Thrones 데이터셋 분석 & 기타 Python 데이터 시각화 라이브러리 소개
-
     </br>
-
 - **데이터 처리하기 - Groupby, Pivot_table**
   - 여러 개의 DataFrame 합치기
   - DataFrame 계층적 인덱싱 이해하기
