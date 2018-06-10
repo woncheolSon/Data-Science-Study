@@ -9,7 +9,16 @@
   - 확률론 기초
 </br>
 
-## 2 .Flearning
+## 2. 파이썬 라이브러리를 활용한 데이터 분석 (Python for Data Analysis)
+<img src="readme_img/Python-for-data-analysis.jpeg" width="300" align="center">
+</br>
+
+### 
+- CHAPTER 4 - NumPy 기본: 배열과 벡터 계산
+- CHAPTER 6 - 데이터 로딩, 저장, 파일 형식
+</br>
+
+## 3. Flearning
 ### [ Python으로 Big Data 분석하기 ]
 - Python 데이터 분석의 기초 라이브러리 - Numpy 사용하기
 - 쉽고 강력한 데이터 분석 라이브러리 - Pandas 사용하기
@@ -19,7 +28,7 @@
 - 실전 데이터 분석 (2) - Kaggle Data : Us-Baby-Names 분석하기 
 </br>
 
-## 3 .Youtude
+## 4. Youtude
 ### [ 선형대수 ]
 - Essence of linear algebra (3Blue1Brown)
 ### [ Tensorflow ]
