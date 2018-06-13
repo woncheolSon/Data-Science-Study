@@ -13,8 +13,6 @@
 <img src="readme_img/Python-for-data-analysis.jpeg" width="300" align="center">
 </br>
 
-### 
-- CHAPTER 4 - NumPy 기본: 배열과 벡터 계산
 - CHAPTER 6 - 데이터 로딩, 저장, 파일 형식
 </br>
 
