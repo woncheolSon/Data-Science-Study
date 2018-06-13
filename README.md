@@ -12,7 +12,7 @@
 ## 2. 파이썬 라이브러리를 활용한 데이터 분석 (Python for Data Analysis)
 <img src="readme_img/Python-for-data-analysis.jpeg" width="300" align="center">
 </br>
-
+ 
 - CHAPTER 6 - 데이터 로딩, 저장, 파일 형식
 </br>
 
