@@ -16,7 +16,20 @@
 - CHAPTER 6 - 데이터 로딩, 저장, 파일 형식
 </br>
 
-## 3. Flearning
+## 3. NAVER - CONNECT
+### [ 머신러닝/딥러닝을 위한 Python ]
+- 수업 자료
+  - week1 - 1월 30일 (화)
+  - week2 - 2월 6일 (화)
+  - week3 - 2월 13일 (화)
+  - week4 - 2월 20일 (화)
+  - week5 - 2월 27일 (화)
+  - Pythonic_code
+  - Data_problems
+- 실습 자료
+</br>
+
+## 4. Flearning
 ### [ Python으로 Big Data 분석하기 ]
 - Python 데이터 분석의 기초 라이브러리 - Numpy 사용하기
 - 쉽고 강력한 데이터 분석 라이브러리 - Pandas 사용하기
@@ -26,7 +39,7 @@
 - 실전 데이터 분석 (2) - Kaggle Data : Us-Baby-Names 분석하기 
 </br>
 
-## 4. Youtude
+## 5. Youtude
 ### [ 선형대수 ]
 - Essence of linear algebra (3Blue1Brown)
 ### [ Tensorflow ]
