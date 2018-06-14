@@ -1,9 +1,9 @@
 # Data-Science-Study
 ``` 데이터 분석을 위한 Data Science 학습자료 정리 Repo ```
 ## 1. Fast Campus - Data Science School 8기
-- *Python*
-- *Numpy, Pandas*
-- *Math*
+- Python
+- Numpy, Pandas
+- Math
   - numpy로 공부하는 선형대수 기초
   - 파이썬으로 공부하는 미적분과 최적화
   - 확률론 기초
@@ -19,11 +19,7 @@
 ## 3. NAVER - CONNECT
 ### [ 머신러닝/딥러닝을 위한 Python ]
 - 수업 자료
-  - week1 - 1월 30일 (화)
-  - week2 - 2월 6일 (화)
-  - week3 - 2월 13일 (화)
-  - week4 - 2월 20일 (화)
-  - week5 - 2월 27일 (화)
+  - week1 ~ week5
   - Pythonic_code
   - Data_problems
 - 실습 자료
