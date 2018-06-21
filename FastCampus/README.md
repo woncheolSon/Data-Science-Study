@@ -13,21 +13,18 @@
 - 11_os.ipynb
 - slack_incomming.ipynb 
 <br/>
----
 ### [ Numpy, Pandas ]
 - 01_numpy_make.ipynb
 - 02_numpy_calculate.ipynb
 - 03_pandas_basic.ipynb
 - 04_pandas_pivot.ipynb
 <br/>
----
 ### [ Visualization ]
 - 01_matplotlib_1.ipynb
 - 02_matplotlib_2.ipynb
 - 03_seaborn.ipynb
 - 04_leaflet.ipynb
 <br/>
----
 ### [ Web ]
 - 01_html_basic
 - 02_html_layout
@@ -38,7 +35,6 @@
 - 06_crawling(requests).ipynb
 - 07_selenium.ipynb
 <br/>
----
 ### [ Math ]
 - **Numpy로 공부하는 선형대수 기초**
   - 벡터와 행렬
