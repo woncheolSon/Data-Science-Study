@@ -12,7 +12,8 @@
   - CH13. StatsModels로 공부하는 회귀분석
 </br>
 
-## 2. 파이썬 라이브러리를 활용한 데이터 분석 (Python for Data Analysis)
+## 2. Learning materials
+### [ Python for Data Analysis ]
 <img src="readme_img/Python-for-data-analysis.jpeg" width="300" align="center">
 </br>
  
