@@ -27,7 +27,8 @@
   - ML lab 01 - [TensorFlow의 설치및 기본적인 operations (new)](https://www.youtube.com/watch?v=-57Ne86Ia8w&t=0s&index=4&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
   - ML lec 02 - [Linear Regression의 Hypothesis 와 cost 설명](https://www.youtube.com/watch?v=Hax03rCn3UI&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=4)
   - ML lec 02 - [TensorFlow로 간단한 linear regression을 구현 (new)](https://www.youtube.com/watch?v=mQGwjrStQgg&index=5&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
-
+  - ML lec 03 - [Linear Regression의 cost 최소화 알고리즘의 원리 설명](https://www.youtube.com/watch?v=TxIVr-nk1so&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=6)
+  - ML lec 03 - [Linear Regression 의 cost 최소화의 TensorFlow 구현 (new)](https://www.youtube.com/watch?v=Y0EF9VqRuEA&index=7&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
  
 
 
