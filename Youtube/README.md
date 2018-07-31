@@ -25,3 +25,9 @@
   
   - ML lec 01 - [기본적인 Machine Learning 의 용어와 개념 설명](https://www.youtube.com/watch?v=qPMeuL2LIqY&t=0s&index=3&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
   - ML lab 01 - [TensorFlow의 설치및 기본적인 operations (new)](https://www.youtube.com/watch?v=-57Ne86Ia8w&t=0s&index=4&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
+  - ML lec 02 - [Linear Regression의 Hypothesis 와 cost 설명](https://www.youtube.com/watch?v=Hax03rCn3UI&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=4)
+  - ML lec 02 - [TensorFlow로 간단한 linear regression을 구현 (new)](https://www.youtube.com/watch?v=mQGwjrStQgg&index=5&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
+
+ 
+
+
