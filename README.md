@@ -3,14 +3,6 @@
 ## 1. Fast Campus - Data Science School 8기
 - Python
 - Numpy, Pandas
-- Math
-  - CH4. 파이썬을 이용한 데이터 분석
-  - CH8. 확률론기초
-  - CH9. SciPy로 공부하는 확률 변수
-  - CH10. 확률변수의 상관관계
-  - CH11. 검정과 추정
-  - CH13. StatsModels로 공부하는 회귀분석
-</br>
 
 ## 2. Learning materials
 ### [ Python for Data Analysis ]
