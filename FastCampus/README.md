@@ -1,4 +1,4 @@
-## Fast Campus - Data Science School 8기
+## Fast Campus - Data Science School 8ê¸°
 ### [ Python ]
 - 01_jupyter_notebook.ipynb
 - 02_python_basic_syntax.ipynb
@@ -39,6 +39,7 @@
 - 07_selenium.ipynb
 - 08_scrapy.ipynb
 </br>
+
 
 
 

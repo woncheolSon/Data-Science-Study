@@ -4,6 +4,7 @@
 - Python
 - Numpy, Pandas
 
+
 ## 2. Learning materials
 ### [ Python for Data Analysis ]
 <img src="readme_img/Python-for-data-analysis.jpeg" width="300" align="center">
